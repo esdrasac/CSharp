@@ -1,0 +1,7 @@
+C:\Users\Junior\source\repos\Ex7\Ex7\obj\Debug\Ex7.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\Ex7\Ex7\obj\Debug\Ex7.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\Ex7\Ex7\bin\Debug\Ex7.exe.config
+C:\Users\Junior\source\repos\Ex7\Ex7\bin\Debug\Ex7.exe
+C:\Users\Junior\source\repos\Ex7\Ex7\bin\Debug\Ex7.pdb
+C:\Users\Junior\source\repos\Ex7\Ex7\obj\Debug\Ex7.exe
+C:\Users\Junior\source\repos\Ex7\Ex7\obj\Debug\Ex7.pdb

@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 4\Ex17\Ex17\bin\Debug\Ex17.exe.config
+C:\Users\Junior\Documents\Roteiro 4\Ex17\Ex17\bin\Debug\Ex17.exe
+C:\Users\Junior\Documents\Roteiro 4\Ex17\Ex17\bin\Debug\Ex17.pdb
+C:\Users\Junior\Documents\Roteiro 4\Ex17\Ex17\obj\Debug\Ex17.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 4\Ex17\Ex17\obj\Debug\Ex17.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 4\Ex17\Ex17\obj\Debug\Ex17.exe
+C:\Users\Junior\Documents\Roteiro 4\Ex17\Ex17\obj\Debug\Ex17.pdb

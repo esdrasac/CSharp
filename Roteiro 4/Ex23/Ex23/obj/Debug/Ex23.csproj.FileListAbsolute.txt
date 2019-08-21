@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 4\Ex23\Ex23\obj\Debug\Ex23.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 4\Ex23\Ex23\obj\Debug\Ex23.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 4\Ex23\Ex23\bin\Debug\Ex23.exe.config
+C:\Users\Junior\Documents\Roteiro 4\Ex23\Ex23\bin\Debug\Ex23.exe
+C:\Users\Junior\Documents\Roteiro 4\Ex23\Ex23\bin\Debug\Ex23.pdb
+C:\Users\Junior\Documents\Roteiro 4\Ex23\Ex23\obj\Debug\Ex23.exe
+C:\Users\Junior\Documents\Roteiro 4\Ex23\Ex23\obj\Debug\Ex23.pdb

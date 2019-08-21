@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 3\EX9\EX9\bin\Debug\EX9.exe.config
+C:\Users\Junior\Documents\Roteiro 3\EX9\EX9\bin\Debug\EX9.exe
+C:\Users\Junior\Documents\Roteiro 3\EX9\EX9\bin\Debug\EX9.pdb
+C:\Users\Junior\Documents\Roteiro 3\EX9\EX9\obj\Debug\EX9.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 3\EX9\EX9\obj\Debug\EX9.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 3\EX9\EX9\obj\Debug\EX9.exe
+C:\Users\Junior\Documents\Roteiro 3\EX9\EX9\obj\Debug\EX9.pdb

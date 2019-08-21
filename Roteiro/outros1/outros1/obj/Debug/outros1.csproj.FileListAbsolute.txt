@@ -1,0 +1,6 @@
+C:\Users\Junior\source\repos\outros1\outros1\bin\Debug\outros1.exe.config
+C:\Users\Junior\source\repos\outros1\outros1\bin\Debug\outros1.exe
+C:\Users\Junior\source\repos\outros1\outros1\bin\Debug\outros1.pdb
+C:\Users\Junior\source\repos\outros1\outros1\obj\Debug\outros1.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\outros1\outros1\obj\Debug\outros1.exe
+C:\Users\Junior\source\repos\outros1\outros1\obj\Debug\outros1.pdb

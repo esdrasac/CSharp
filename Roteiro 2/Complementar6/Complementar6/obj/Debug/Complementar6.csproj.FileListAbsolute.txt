@@ -1,0 +1,7 @@
+C:\Users\Junior\source\repos\Complementar6\Complementar6\bin\Debug\Complementar6.exe.config
+C:\Users\Junior\source\repos\Complementar6\Complementar6\bin\Debug\Complementar6.exe
+C:\Users\Junior\source\repos\Complementar6\Complementar6\bin\Debug\Complementar6.pdb
+C:\Users\Junior\source\repos\Complementar6\Complementar6\obj\Debug\Complementar6.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\Complementar6\Complementar6\obj\Debug\Complementar6.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\Complementar6\Complementar6\obj\Debug\Complementar6.exe
+C:\Users\Junior\source\repos\Complementar6\Complementar6\obj\Debug\Complementar6.pdb

@@ -1,0 +1,7 @@
+C:\Users\Junior\source\repos\Complementar5\Complementar5\bin\Debug\Complementar5.exe.config
+C:\Users\Junior\source\repos\Complementar5\Complementar5\bin\Debug\Complementar5.exe
+C:\Users\Junior\source\repos\Complementar5\Complementar5\bin\Debug\Complementar5.pdb
+C:\Users\Junior\source\repos\Complementar5\Complementar5\obj\Debug\Complementar5.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\Complementar5\Complementar5\obj\Debug\Complementar5.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\Complementar5\Complementar5\obj\Debug\Complementar5.exe
+C:\Users\Junior\source\repos\Complementar5\Complementar5\obj\Debug\Complementar5.pdb

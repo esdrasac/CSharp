@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Roteiro8\Questao 2\Questao 2\bin\Debug\Questao 2.exe.config
+C:\Users\user\Desktop\Roteiro8\Questao 2\Questao 2\bin\Debug\Questao 2.exe
+C:\Users\user\Desktop\Roteiro8\Questao 2\Questao 2\bin\Debug\Questao 2.pdb
+C:\Users\user\Desktop\Roteiro8\Questao 2\Questao 2\obj\Debug\Questao 2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Roteiro8\Questao 2\Questao 2\obj\Debug\Questao 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Roteiro8\Questao 2\Questao 2\obj\Debug\Questao 2.exe
+C:\Users\user\Desktop\Roteiro8\Questao 2\Questao 2\obj\Debug\Questao 2.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Roteiro8\Questao3\Questao3\bin\Debug\Questao3.exe.config
+C:\Users\user\Desktop\Roteiro8\Questao3\Questao3\bin\Debug\Questao3.exe
+C:\Users\user\Desktop\Roteiro8\Questao3\Questao3\bin\Debug\Questao3.pdb
+C:\Users\user\Desktop\Roteiro8\Questao3\Questao3\obj\Debug\Questao3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Roteiro8\Questao3\Questao3\obj\Debug\Questao3.exe
+C:\Users\user\Desktop\Roteiro8\Questao3\Questao3\obj\Debug\Questao3.pdb

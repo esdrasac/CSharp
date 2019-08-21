@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro\questao17\questao17\bin\Debug\questao17.exe.config
+C:\Users\Junior\Documents\Roteiro\questao17\questao17\bin\Debug\questao17.exe
+C:\Users\Junior\Documents\Roteiro\questao17\questao17\bin\Debug\questao17.pdb
+C:\Users\Junior\Documents\Roteiro\questao17\questao17\obj\Debug\questao17.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro\questao17\questao17\obj\Debug\questao17.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro\questao17\questao17\obj\Debug\questao17.exe
+C:\Users\Junior\Documents\Roteiro\questao17\questao17\obj\Debug\questao17.pdb

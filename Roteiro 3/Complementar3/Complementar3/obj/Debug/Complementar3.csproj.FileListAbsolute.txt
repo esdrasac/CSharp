@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 3\Complementar3\Complementar3\bin\Debug\Complementar3.exe.config
+C:\Users\Junior\Documents\Roteiro 3\Complementar3\Complementar3\bin\Debug\Complementar3.exe
+C:\Users\Junior\Documents\Roteiro 3\Complementar3\Complementar3\bin\Debug\Complementar3.pdb
+C:\Users\Junior\Documents\Roteiro 3\Complementar3\Complementar3\obj\Debug\Complementar3.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 3\Complementar3\Complementar3\obj\Debug\Complementar3.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 3\Complementar3\Complementar3\obj\Debug\Complementar3.exe
+C:\Users\Junior\Documents\Roteiro 3\Complementar3\Complementar3\obj\Debug\Complementar3.pdb

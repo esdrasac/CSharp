@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 4\Exemplo\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 4\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 4\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\Junior\Documents\Roteiro 4\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\Junior\Documents\Roteiro 4\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\Junior\Documents\Roteiro 4\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\Junior\Documents\Roteiro 4\Exemplo\Exemplo\obj\Debug\Exemplo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 5\EX 6\EX 6\bin\Debug\EX 6.exe.config
+C:\Users\Junior\Documents\Roteiro 5\EX 6\EX 6\bin\Debug\EX 6.exe
+C:\Users\Junior\Documents\Roteiro 5\EX 6\EX 6\bin\Debug\EX 6.pdb
+C:\Users\Junior\Documents\Roteiro 5\EX 6\EX 6\obj\Debug\EX 6.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 5\EX 6\EX 6\obj\Debug\EX 6.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 5\EX 6\EX 6\obj\Debug\EX 6.exe
+C:\Users\Junior\Documents\Roteiro 5\EX 6\EX 6\obj\Debug\EX 6.pdb

@@ -1,0 +1,7 @@
+C:\Users\Junior\source\repos\Complementar2\Complementar2\bin\Debug\Complementar2.exe.config
+C:\Users\Junior\source\repos\Complementar2\Complementar2\bin\Debug\Complementar2.exe
+C:\Users\Junior\source\repos\Complementar2\Complementar2\bin\Debug\Complementar2.pdb
+C:\Users\Junior\source\repos\Complementar2\Complementar2\obj\Debug\Complementar2.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\Complementar2\Complementar2\obj\Debug\Complementar2.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\Complementar2\Complementar2\obj\Debug\Complementar2.exe
+C:\Users\Junior\source\repos\Complementar2\Complementar2\obj\Debug\Complementar2.pdb

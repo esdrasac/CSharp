@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro\outros4\outros4\bin\Debug\outros4.exe.config
+C:\Users\Junior\Documents\Roteiro\outros4\outros4\bin\Debug\outros4.exe
+C:\Users\Junior\Documents\Roteiro\outros4\outros4\bin\Debug\outros4.pdb
+C:\Users\Junior\Documents\Roteiro\outros4\outros4\obj\Debug\outros4.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro\outros4\outros4\obj\Debug\outros4.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro\outros4\outros4\obj\Debug\outros4.exe
+C:\Users\Junior\Documents\Roteiro\outros4\outros4\obj\Debug\outros4.pdb

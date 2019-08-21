@@ -1,0 +1,6 @@
+C:\Users\Junior\Documents\Roteiro\outros2\outros2\bin\Debug\outros2.exe.config
+C:\Users\Junior\Documents\Roteiro\outros2\outros2\bin\Debug\outros2.exe
+C:\Users\Junior\Documents\Roteiro\outros2\outros2\bin\Debug\outros2.pdb
+C:\Users\Junior\Documents\Roteiro\outros2\outros2\obj\Debug\outros2.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro\outros2\outros2\obj\Debug\outros2.exe
+C:\Users\Junior\Documents\Roteiro\outros2\outros2\obj\Debug\outros2.pdb

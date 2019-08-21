@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 4\Complementar 4\Complementar 4\obj\Debug\Complementar 4.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 4\Complementar 4\Complementar 4\obj\Debug\Complementar 4.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 4\Complementar 4\Complementar 4\bin\Debug\Complementar 4.exe.config
+C:\Users\Junior\Documents\Roteiro 4\Complementar 4\Complementar 4\bin\Debug\Complementar 4.exe
+C:\Users\Junior\Documents\Roteiro 4\Complementar 4\Complementar 4\bin\Debug\Complementar 4.pdb
+C:\Users\Junior\Documents\Roteiro 4\Complementar 4\Complementar 4\obj\Debug\Complementar 4.exe
+C:\Users\Junior\Documents\Roteiro 4\Complementar 4\Complementar 4\obj\Debug\Complementar 4.pdb

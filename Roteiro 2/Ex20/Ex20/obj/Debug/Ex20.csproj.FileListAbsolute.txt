@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Roteiro 2\Ex20\Ex20\bin\Debug\Ex20.exe.config
+C:\Users\Junior\Documents\Roteiro 2\Ex20\Ex20\bin\Debug\Ex20.exe
+C:\Users\Junior\Documents\Roteiro 2\Ex20\Ex20\bin\Debug\Ex20.pdb
+C:\Users\Junior\Documents\Roteiro 2\Ex20\Ex20\obj\Debug\Ex20.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Roteiro 2\Ex20\Ex20\obj\Debug\Ex20.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Roteiro 2\Ex20\Ex20\obj\Debug\Ex20.exe
+C:\Users\Junior\Documents\Roteiro 2\Ex20\Ex20\obj\Debug\Ex20.pdb
