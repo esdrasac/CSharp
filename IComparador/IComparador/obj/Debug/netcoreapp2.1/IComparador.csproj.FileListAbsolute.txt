@@ -1,0 +1,11 @@
+C:\GitHub\Exercícios POO\IComparador\IComparador\bin\Debug\netcoreapp2.1\IComparador.deps.json
+C:\GitHub\Exercícios POO\IComparador\IComparador\bin\Debug\netcoreapp2.1\IComparador.runtimeconfig.json
+C:\GitHub\Exercícios POO\IComparador\IComparador\bin\Debug\netcoreapp2.1\IComparador.runtimeconfig.dev.json
+C:\GitHub\Exercícios POO\IComparador\IComparador\bin\Debug\netcoreapp2.1\IComparador.dll
+C:\GitHub\Exercícios POO\IComparador\IComparador\bin\Debug\netcoreapp2.1\IComparador.pdb
+C:\GitHub\Exercícios POO\IComparador\IComparador\obj\Debug\netcoreapp2.1\IComparador.csprojAssemblyReference.cache
+C:\GitHub\Exercícios POO\IComparador\IComparador\obj\Debug\netcoreapp2.1\IComparador.csproj.CoreCompileInputs.cache
+C:\GitHub\Exercícios POO\IComparador\IComparador\obj\Debug\netcoreapp2.1\IComparador.AssemblyInfoInputs.cache
+C:\GitHub\Exercícios POO\IComparador\IComparador\obj\Debug\netcoreapp2.1\IComparador.AssemblyInfo.cs
+C:\GitHub\Exercícios POO\IComparador\IComparador\obj\Debug\netcoreapp2.1\IComparador.dll
+C:\GitHub\Exercícios POO\IComparador\IComparador\obj\Debug\netcoreapp2.1\IComparador.pdb

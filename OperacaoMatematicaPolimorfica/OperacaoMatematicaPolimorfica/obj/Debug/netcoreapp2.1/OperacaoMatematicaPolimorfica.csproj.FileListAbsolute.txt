@@ -1,0 +1,11 @@
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\bin\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.deps.json
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\bin\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.runtimeconfig.json
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\bin\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.runtimeconfig.dev.json
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\bin\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.dll
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\bin\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.pdb
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\obj\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.csprojAssemblyReference.cache
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\obj\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.csproj.CoreCompileInputs.cache
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\obj\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.AssemblyInfoInputs.cache
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\obj\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.AssemblyInfo.cs
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\obj\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.dll
+C:\GitHub\Exercícios POO\OperacaoMatematicaPolimorfica\OperacaoMatematicaPolimorfica\obj\Debug\netcoreapp2.1\OperacaoMatematicaPolimorfica.pdb
